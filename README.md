@@ -11,27 +11,20 @@ The MNIST dataset is a collection of handwritten digits. The task is to classify
 
 ## Neural Network Model
 
-<img width="249" alt="image" src="https://github.com/Nagadurg/mnist-classification/assets/94185707/bdecae3b-56b1-4fb5-9f8e-62935efb0dbc">
+<img width="501" alt="image" src="https://github.com/Nagadurg/mnist-classification/assets/94185707/30705a59-bacc-44cd-8b21-cc963f53f721">
+
 
 
 ## DESIGN STEPS
 ```
-## STEP 1:
-Import the required packages
-## STEP 2:
-Load the dataset
-## STEP 3: 
-Scale the dataset
-## STEP 4:
-Use the one-hot encoder
-## STEP 5: 
-Create the model
-## STEP 6:
-Compile the model
-## STEP 7: 
-Fit the model
-## STEP 8:
-Make prediction with test data and with an external data
+## STEP 1:Import the required packages
+## STEP 2:Load the dataset
+## STEP 3: Scale the dataset
+## STEP 4:Use the one-hot encoder
+## STEP 5: Create the model
+## STEP 6:Compile the model
+## STEP 7: Fit the model
+## STEP 8:Make prediction with test data and with an external data
 
 ```
 
